@@ -1,2 +1,2 @@
 # Javascript-P
-Practice Javascript.
+Practice Javascript basic from scratch.
