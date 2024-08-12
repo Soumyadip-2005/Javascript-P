@@ -10,7 +10,6 @@ let userOne = {
     email : "user@gmail.com",
     upi :"user123@ybl"
 }
-
 let userTwo = userOne 
 
 userTwo.email = "xyz123@gmail.com"
